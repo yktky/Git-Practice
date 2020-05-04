@@ -5,4 +5,9 @@ black
 CCC
 whaite
 gggg
+<<<<<<< HEAD
 llll
+=======
+zzz
+
+>>>>>>> 0b150ea09c010ffc299fc587ab0c2895882bc538
