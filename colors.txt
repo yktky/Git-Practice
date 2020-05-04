@@ -1,9 +1,7 @@
-
-
-
-
 blue
 orrange
 red
 black
 CCC
+whaite
+
